@@ -7,6 +7,8 @@
 # 💫 About Me:
 🌿 **About Me**<br>I'm a detail-oriented Backend Software Engineer with a B.Sc. in Software Engineering. <!--[cite: 1] --><br>I am passionate about applying Clean Code principles, strict Layered Architecture, and GoF Design Patterns to deliver secure, maintainable, and high-performance server-side solutions. <!--[cite: 1] --><br><br>
 
+🚀 **Current Status**<br>Actively seeking new opportunities as a Backend Software Engineer. Ready to build robust APIs and scalable database-driven systems!<br><br>
+
 🛠️ **I’m currently working on**<br>Developing scalable backend systems, designing RESTful APIs, and implementing secure architectural patterns. <!--[cite: 1] --><br><br>
 
 🤝 **I’m looking to collaborate on**<br>Backend-focused applications, database-driven systems, and projects that combine Object-Oriented Programming (OOP) with Functional Programming (FP) concepts. <!--[cite: 1] --><br><br>
@@ -60,6 +62,7 @@
             <img height="35" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <!--[cite: 1] -->
             <img height="35" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <!--[cite: 1] -->
             <img height="35" src="https://img.shields.io/badge/UML-00599C?style=for-the-badge&logo=uml&logoColor=white"/> <!--[cite: 1] -->
+            <img height="35" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
         </td>
     </tr>
 
